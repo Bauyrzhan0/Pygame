@@ -2,6 +2,7 @@ import pygame
 import random,time
 pygame.init()
 
+
 #Загружаю все картинки и создаю нужные переменные
 screen = pygame.display.set_mode((800, 600))
 
